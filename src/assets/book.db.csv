@@ -1,0 +1,67 @@
+id,book_id,testament_id,name_english,name_shona
+1,1,1,Genesis,Genesisi
+2,2,1,Exodus,Ekisodho
+3,3,1,Leviticus,Revhitiko
+4,4,1,Numbers,Numeri
+5,5,1,Deuteronomy,Dhuteronomi
+6,6,1,Joshua,Joshua
+7,7,1,Judges,Vatongi
+8,8,1,Ruth,Rute
+9,9,1,1 Samuel,1 Samueri
+10,10,1,2 Samuel,2 Samueri
+11,11,1,1 Kings,1 Madzimambo
+12,12,1,2 Kings,2 Madzimambo
+13,13,1,1 Chronicles,1 Makoronike
+14,14,1,2 Chronicles,2 Makoronike
+15,15,1,Ezra,Ezira
+16,16,1,Nehemiah,Nehemia
+17,17,1,Esther,Esteri
+18,18,1,Job,Jobho
+19,19,1,Psalms,Mapisarema
+20,20,1,Proverbs,Zvirevo
+21,21,1,Ecclesiastes,Muparidzi
+22,22,1,Songs of Solomon,Rwiyo Rukuru rwaSoromoni
+23,23,1,Isaiah,Isaya
+24,24,1,Jeremiah,Jeremia
+25,25,1,Lamentations,Kuungudza kwaJeremia
+26,26,1,Ezekiel,Ezekieri
+27,27,1,Daniel,Dhanieri
+28,28,1,Hosea,Hosea
+29,29,1,Joel,Joere
+30,30,1,Amos,Amosi
+31,31,1,Obadiah,Obhadhia
+32,32,1,Jonah,Jona
+33,33,1,Micah,Mika
+34,34,1,Nahum,Nahumi
+35,35,1,Habakkuk,Habhakuki
+36,36,1,Zephaniah,Zefania
+37,37,1,Haggai,Hagai
+38,38,1,Zechariah,Zekaria
+39,39,1,Malachi,Maraki
+40,40,2,Matthew,Mateo
+41,41,2,Mark,Mako
+42,42,2,Luke,Ruka
+43,43,2,John,Johani
+44,45,2,Acts,Mabasa
+45,44,2,Romans,VaRoma
+46,46,2,1 Corinthians,1 VaKorinde
+47,47,2,2 Corinthians,2 VaKorinde
+48,48,2,Galatians,VaGaratia
+49,49,2,Ephesians,VaEfeso
+50,50,2,Philippians,VaFiripi
+51,51,2,Colossians,VaKorose
+52,52,2,1 Thessalonians,1 VaTesaronika
+53,53,2,2 Thessalonians,2 Vatesaronika
+54,54,2,1 Timothy,1 Timoti
+55,55,2,2 Timothy,2 Timoti
+56,56,2,Titus,Tito
+57,57,2,Philemon,Firimoni
+58,58,2,Hebrews,VaHebheru
+59,59,2,James,Jakobho
+60,60,2,1 Peter,1 Petro
+61,61,2,2 Peter,2 Petro
+62,62,2,1 John,1 Johani
+63,63,2,2 John,2 Johani
+64,64,2,3 John,3 Johani
+65,65,2,Jude,Judha
+66,66,2,Revelation,Zvakazarurwa
